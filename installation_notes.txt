@@ -1,0 +1,15 @@
+2022-09-02 
+cppyy on Ubuntu works fantastically. 
+
+Installation with conda-forge
+-----------------------------
+
+```conda install -c conda-forge cppyy ``` worked out well. 
+
+
+Installation with pip
+---------------------
+
+```pip install cppyy```
+
+Also no problem at all running testing.py straight after pip installation. 
