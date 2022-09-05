@@ -17,4 +17,4 @@ Also no problem at all running testing.py straight after pip installation.
 
 cppyy on Windows works well too
 -------------------------------
-```pip install cppyy``` and then running ```python testing.py``` works out pretty well too!!!
+```pip install cppyy``` and then running ```python testing.py``` works out pretty well too!
